@@ -1,5 +1,6 @@
 fastapi
-uvicorn
-chromadb
-google-generativeai
+uvicorn[standard]
+pydantic
+google-generativeai  # Changed from openai
 python-dotenv
+chromadb
