@@ -146,8 +146,3 @@ You're now ready to explore a full-stack implementation of a long-term memory-au
 * The power of memory in LLMs
 * Modern, decoupled architecture
 * Real-time semantic search and response generation
-
-```
-
-Let me know if you'd like this saved as a downloadable file or embedded with badges/licenses.
-```
