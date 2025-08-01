@@ -1,5 +1,3 @@
-Got it! Here's the **formatted `README.md` content as code**:
-
 ````markdown
 # 🧠 EchoMind: A Long-Term Memory Agent for LLMs
 
