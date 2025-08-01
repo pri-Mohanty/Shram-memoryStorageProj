@@ -70,7 +70,7 @@ class MemoryStore:
         Retrieves the top-k most relevant active memories for a given query.
         This version includes extra logging for deep debugging.
         """
-        query_embedding = self.embedder.get_embedding(query_text, task_type="RETRIEVAL_QUERY")
+        query_embedding = self.embedder.get_embedding(query_text, task_type="RETRIEVAL_DOCUMENT")
         
         # Get the list of IDs for memories that are currently active from SQLite.
         active_memory_ids = self._get_active_memory_ids(user_id)
