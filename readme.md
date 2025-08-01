@@ -1,4 +1,3 @@
-````markdown
 # 🧠 EchoMind: A Long-Term Memory Agent for LLMs
 
 **EchoMind** is a fully functional prototype of a conversational AI system with persistent, long-term memory. This project demonstrates how to augment a Large Language Model (LLM)—in this case, Google's **Gemini**—with the ability to **intelligently store, recall, and forget** information across multiple conversations, leading to a more personalized and context-aware user experience.
